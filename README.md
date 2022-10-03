@@ -6,7 +6,7 @@
 - In free time i love play board games
 
 
-Skills: Excel\PowerQuery\SQL
+Skills: Excel\PowerQuery\PowerBI\SQL
 
 - 🌱 I’m currently learning HTML->CSS->JS 
 - 📫 How to reach me: https://www.linkedin.com/in/daniel-w-1aa307213/ 
