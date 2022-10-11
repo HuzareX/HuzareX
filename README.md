@@ -10,3 +10,4 @@ Skills: Excel\PowerQuery\PowerBI\SQL
 
 - 🌱 I’m currently learning HTML->CSS->JS 
 - 📫 How to reach me: https://www.linkedin.com/in/daniel-w-1aa307213/ 
+![image](https://user-images.githubusercontent.com/102318881/195020776-1e916208-6551-463b-b9ca-9a140297a142.png)
