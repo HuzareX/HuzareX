@@ -31,6 +31,7 @@ JavaScript - Basics
 
 Links:
 https://codepen.io/HuzareX
+
 https://www.linkedin.com/in/daniel-w%C4%99gierski-1aa307213/
 
 
