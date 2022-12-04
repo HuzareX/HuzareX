@@ -1,9 +1,9 @@
 ### Hi there 👋, Im Daniel!
 #### Data analyst/Junior front-end Developer Candidate
-🏠 Im from Poland, Złotów.
-💼 Currently working as data analyst
-👓 Gradually I learn the coding
-🎲 In free time i love play board games
+##🏠 Im from Poland, Złotów.
+##💼 Currently working as data analyst
+##👓 Gradually I learn the coding
+##🎲 In free time i love play board games
 
 ![man-1835_256](https://user-images.githubusercontent.com/102318881/205519440-a60c227d-d4f8-408c-9a7b-357f0301decb.gif)
 
