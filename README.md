@@ -1,8 +1,8 @@
 ### Hi there 👋, Im Daniel!
-#### Data analyst/Junior front-end Developer Candidate
+#### Junior front-end Developer Candidate
 🏠 Im from Poland, Złotów.
 
-💼 Currently working as data analyst
+💼 Currently working as planning and analysis specialist.
 
 👓 Gradually I learn the coding
 
