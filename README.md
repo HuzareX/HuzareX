@@ -1,32 +1,14 @@
-### Hi there 👋, Im Daniel!
-#### Junior front-end Developer Candidate
-🏠 Im from Poland, Złotów.
+###Im Daniel!
+###Junior frontend Developer Candidate
 
-💼 Currently working as planning and analysis specialist.
-
-👓 Gradually I learn the coding
-
-🎲 In free time i love play board games
-
-![man-1835_256](https://user-images.githubusercontent.com/102318881/205519440-a60c227d-d4f8-408c-9a7b-357f0301decb.gif)
+My skills:
+![image](https://github.com/HuzareX/HuzareX/assets/102318881/02a2f2a0-0163-4734-985a-05b963b422b5) ![image](https://github.com/HuzareX/HuzareX/assets/102318881/4c383085-3841-41c2-8733-39f09b4a08e6) ![image](https://github.com/HuzareX/HuzareX/assets/102318881/df5ebf51-441c-4998-9384-4272fa062647)
+ ![image](https://github.com/HuzareX/HuzareX/assets/102318881/d6cff3ea-8d3b-4894-8030-d0247e61cdb2)
 
 
-📈Analyst skills:
-
-Excel|PowerQuery|PowerPivot - Very good
-
-PowerBI|SQL|VBA - Strong fundamentals
 
 
-🌐Frontend skills:
 
-HTML|CSS|SASS - Very good
-
-Bootstrap - Good
-
-JavaScript - Basics
-
-🌱 Im constantly improving my Frontend skills
 
 
 Links:
